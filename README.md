@@ -29,7 +29,7 @@ npm start
 - Click on any color button to change the background color of the page.
 
 ## Screenshot
-![Color Changer App]([image_url](https://github.com/connect-aditya/Background-Changer/blob/9351f920fdf816a4b09c355e55c0617dd2a9cceb/src/assets/Screenshot%202025-02-27%20194656.png))
+![Color Changer App](https://github.com/connect-aditya/Background-Changer/blob/9351f920fdf816a4b09c355e55c0617dd2a9cceb/src/assets/Screenshot%202025-02-27%20194656.png)
 
 ## Folder Structure
 ```
