@@ -2,6 +2,9 @@
 
 This is a simple React app that allows you to change the background color of the screen by clicking on color buttons.
 
+## Screenshot
+![Color Changer App](https://github.com/connect-aditya/Background-Changer/blob/9351f920fdf816a4b09c355e55c0617dd2a9cceb/src/assets/Screenshot%202025-02-27%20194656.png)
+
 ## Features
 - Responsive design with Tailwind CSS
 - Buttons to change the background color
@@ -28,8 +31,7 @@ npm start
 - Open the app in your browser.
 - Click on any color button to change the background color of the page.
 
-## Screenshot
-![Color Changer App](https://github.com/connect-aditya/Background-Changer/blob/9351f920fdf816a4b09c355e55c0617dd2a9cceb/src/assets/Screenshot%202025-02-27%20194656.png)
+
 
 ## Folder Structure
 ```
